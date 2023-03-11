@@ -2,7 +2,7 @@ GitHub Section:
 	- This program is dependent on 
 		o SDL2-2.26.3
 		o SDL2-image-2.6.3
-		o SDL@_ttf-2.20.2
+		o SDL2_ttf-2.20.2
 
 How to play:
 	Guide the blue vessel towards green cells, and stay in the air as long as you can.
