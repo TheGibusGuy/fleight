@@ -3,6 +3,7 @@ GitHub Section:
 		o SDL2-2.26.3
 		o SDL2-image-2.6.3
 		o SDL2_ttf-2.20.2
+	- The "resources" folder should be in the program's working directory
 
 How to play:
 	Guide the blue vessel towards green cells, and stay in the air as long as you can.
